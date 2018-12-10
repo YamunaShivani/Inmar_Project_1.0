@@ -1,4 +1,5 @@
-# Inmar_Project_1.0..
+# Operating Steps 
+Inmar_Project_1.0..
 Inmar_Assigned_Project..
 Following are Configuration steps for the eFruitCart Web Application..
 This is an Web Application meant for E-Shopping kart for Fruits only..
